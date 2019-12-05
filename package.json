@@ -1,0 +1,22 @@
+{
+  "name": "node-imooc-ebook",
+  "version": "1.0.0",
+  "description": "vue js project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewgreve7/node-imooc-ebook.git"
+  },
+  "author": "andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewgreve7/node-imooc-ebook/issues"
+  },
+  "homepage": "https://github.com/andrewgreve7/node-imooc-ebook#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
